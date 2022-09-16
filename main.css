@@ -42,7 +42,8 @@ body {
 
 
 .container .text h3 {
-    width: 15rem;
+    width: 17rem;
+    font-size: 21px;
     color: var(--Dark-blue);
 }
 
